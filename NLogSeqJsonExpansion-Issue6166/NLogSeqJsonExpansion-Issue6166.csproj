@@ -11,7 +11,7 @@
   <ItemGroup>
     <PackageReference Include="NLog" Version="6.1.2" />
     <PackageReference Include="NLog.Targets.Seq" Version="4.0.2" />
-    <PackageReference Include="NLog.Web.AspNetCore" Version="6.1.2" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="6.0.6" />
   </ItemGroup>
 
   <ItemGroup>
